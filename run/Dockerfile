@@ -1,4 +1,4 @@
-FROM scratch
+FROM s390x/ubuntu:18.04
 MAINTAINER Wes Higbee <wes.mcclure@gmail.com>
 
 COPY hello /
